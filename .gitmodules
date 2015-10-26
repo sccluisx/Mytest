@@ -1,0 +1,3 @@
+[submodule "externals/Jellyfish"]
+	path = externals/Jellyfish
+	url = https://github.com/gmarcais/Jellyfish
